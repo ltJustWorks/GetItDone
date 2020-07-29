@@ -29,3 +29,5 @@ Implementation in Python.
 	* The app calculates a minimum time & maximum time estimate for a task, and records if a user was able to complete the task closer to the minimum or maximum time
 * Auto-generated Timetables
 	* The user can create a layout for their work schedule, so that the app can automatically create new schedules based on the user's desired layout, and also the data the app has received from the user about how long certain tasks take to get finished
+* Social Features
+	* Users can see others' productivity pulses
