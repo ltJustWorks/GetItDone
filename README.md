@@ -4,7 +4,7 @@ Concept: A time tracking program for college and university to help you stick to
 Implementation in Python.
 
 
-## Feature Checklist
+## Feature Goals
 * Focuses on the user spending less time laying out their work plans, and more time spent actually getting work done
 	* The only regular input required from the user should be starting/stopping a timer for registering the time they spend on a task and what task they're working on
 * Timetable View
