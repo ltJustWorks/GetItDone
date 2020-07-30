@@ -2,7 +2,7 @@
 
 ## Concept
 A time tracking program for college and university to help you stick to your plans and be more productive.\
-You can track your time while using a timetable to base your workday on.
+You can track your time while using a timetable to base your workday on.\
 Implementation in Python.
 
 
